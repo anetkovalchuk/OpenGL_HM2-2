@@ -45,5 +45,7 @@ add_executable(${PROJECT_NAME}
         hm1/task13/task13.cpp
         hm1/task14/task14.cpp
         hm1/task14/task14.h
+        hm1/task15/task15.cpp
+        "hm1/task15/task15.h"
 )
 target_link_libraries(${PROJECT_NAME} ${libs})

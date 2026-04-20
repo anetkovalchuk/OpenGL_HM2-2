@@ -13,6 +13,7 @@
 #include "../hm1/task12/task12.h"
 #include "../hm1/task13/task13.h"
 #include "../hm1/task14/task14.h"
+#include "../hm1/task15/task15.h"
 
 int main() {
     std::cout << "Starting Task:" << std::endl;
@@ -30,5 +31,6 @@ int main() {
     runTask12();
     runTask13();
     runTask14();
+    runTask15();
     return 0;
 }
